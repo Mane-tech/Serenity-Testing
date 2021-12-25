@@ -6,12 +6,8 @@ This is a trial project covering the creation of a project via REST API
 
 Git:
 
-    git clone https://github.com/serenity-bdd/serenity-junit-starter.git
-    cd serenity-junit-starter
-
-
-Or simply [download a zip](https://github.com/serenity-bdd/serenity-junit-starter/archive/master.zip) file.
-
+    git clone https://github.com/Mane-tech/VicolandTrialTest
+    cd VicolandTrialTest
 
 # Run all the unit test classes.
 Open a command window and run:
